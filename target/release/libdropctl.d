@@ -1,0 +1,1 @@
+/workspace/dropctl/target/release/libdropctl.rlib: /workspace/dropctl/src/config/mod.rs /workspace/dropctl/src/crypto/keys.rs /workspace/dropctl/src/crypto/mod.rs /workspace/dropctl/src/crypto/session.rs /workspace/dropctl/src/lib.rs /workspace/dropctl/src/protocol/mod.rs /workspace/dropctl/src/transfer/mod.rs
